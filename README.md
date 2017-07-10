@@ -3,7 +3,7 @@
 ## 特将代码整理传至github，大家多star
 
 ## 效果
-![img](这里写你图片的链接)
+![img](https://github.com/shuaijia/JsPopupWindow/blob/master/gif/GIF.gif)
 
 ## step 1：
 ```java
