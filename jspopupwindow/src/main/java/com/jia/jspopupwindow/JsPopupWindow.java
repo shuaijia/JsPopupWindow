@@ -29,6 +29,8 @@ public class JsPopupWindow {
 
         mPopupWindow.setOutsideTouchable(builder.isOutSideCancle());
 
+        mPopupWindow.setFocusable(true);
+
         mPopupWindow.setBackgroundDrawable(new ColorDrawable(Color.TRANSPARENT));
 
         mPopupWindow.setAnimationStyle(builder.getAnimation());
